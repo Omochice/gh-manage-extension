@@ -1,9 +1,15 @@
 package main
 
 import (
-	cmd "github.com/Omochice/gh-manage-extension/cmd"
+	"log"
+
+	"github.com/Omochice/gh-manage-extension/cmd"
 )
 
 func main() {
-	cmd.Mod()
+	err := cmd.Execute()
+
+	if err != nil {
+		log.Fatal(err)
+	}
 }

@@ -6,8 +6,8 @@ import (
 	"github.com/go-git/go-git/v5"
 )
 
-func clone(url string) error {
-	_, err := git.PlainClone("/tmp/foo", false, &git.CloneOptions{
+func clone(url string, cloneTo string) error {
+	_, err := git.PlainClone(cloneTo, false, &git.CloneOptions{
 		URL:      url,
 		Progress: os.Stdout,
 	})
