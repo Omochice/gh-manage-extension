@@ -1,6 +1,6 @@
 module github.com/Omochice/gh-manage-extension
 
-go 1.21.6
+go 1.22.1
 
 require (
 	github.com/cli/go-gh v1.2.1
