@@ -8,7 +8,7 @@ require (
 	github.com/go-git/go-git/v5 v5.11.0
 	github.com/koki-develop/go-fzf v0.15.0
 	github.com/pelletier/go-toml/v2 v2.1.1
-	github.com/urfave/cli/v2 v2.27.1
+	github.com/urfave/cli/v2 v2.27.3
 )
 
 require (
@@ -24,7 +24,7 @@ require (
 	github.com/cli/shurcooL-graphql v0.0.4 // indirect
 	github.com/cloudflare/circl v1.3.3 // indirect
 	github.com/containerd/console v1.0.4-0.20230313162750-1ae8d489ac81 // indirect
-	github.com/cpuguy83/go-md2man/v2 v2.0.2 // indirect
+	github.com/cpuguy83/go-md2man/v2 v2.0.4 // indirect
 	github.com/cyphar/filepath-securejoin v0.2.4 // indirect
 	github.com/emirpasic/gods v1.18.1 // indirect
 	github.com/go-git/gcfg v1.5.1-0.20230307220236-3a3c6141e376 // indirect
@@ -48,7 +48,7 @@ require (
 	github.com/skeema/knownhosts v1.2.1 // indirect
 	github.com/thlib/go-timezone-local v0.0.0-20210907160436-ef149e42d28e // indirect
 	github.com/xanzy/ssh-agent v0.3.3 // indirect
-	github.com/xrash/smetrics v0.0.0-20201216005158-039620a65673 // indirect
+	github.com/xrash/smetrics v0.0.0-20240521201337-686a1a2994c1 // indirect
 	golang.org/x/crypto v0.16.0 // indirect
 	golang.org/x/mod v0.12.0 // indirect
 	golang.org/x/net v0.19.0 // indirect
