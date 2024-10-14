@@ -3,8 +3,8 @@ module github.com/Omochice/gh-manage-extension
 go 1.21.6
 
 require (
-	github.com/cli/go-gh/v2 v2.9.0
-	github.com/cli/go-gh/v2 v2.9.0
+	github.com/cli/go-gh v1.2.1
+	github.com/cli/go-gh/v2 v2.11.0
 	github.com/go-git/go-git v4.7.0+incompatible
 	github.com/go-git/go-git/v5 v5.12.0
 	github.com/koki-develop/go-fzf v0.15.0
