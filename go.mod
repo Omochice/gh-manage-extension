@@ -11,7 +11,7 @@ require (
 	github.com/go-git/go-git/v5 v5.14.0
 	github.com/koki-develop/go-fzf v0.15.0
 	github.com/pelletier/go-toml/v2 v2.2.3
-	github.com/urfave/cli/v2 v2.27.5
+	github.com/urfave/cli/v2 v2.27.6
 )
 
 require (
