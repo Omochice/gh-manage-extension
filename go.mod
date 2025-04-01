@@ -12,6 +12,7 @@ require (
 	github.com/koki-develop/go-fzf v0.15.0
 	github.com/pelletier/go-toml/v2 v2.2.3
 	github.com/urfave/cli/v2 v2.27.6
+	github.com/urfave/cli/v3 v3.1.1
 )
 
 require (
