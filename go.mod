@@ -5,7 +5,7 @@ go 1.23.0
 toolchain go1.24.2
 
 require (
-	github.com/cli/go-gh v1.2.1
+	github.com/cli/go-gh/v2 v2.12.0
 	github.com/cli/go-gh/v2 v2.12.0
 	github.com/go-git/go-git v4.7.0+incompatible
 	github.com/go-git/go-git/v5 v5.14.0
