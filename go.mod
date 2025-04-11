@@ -10,7 +10,7 @@ require (
 	github.com/go-git/go-git v4.7.0+incompatible
 	github.com/go-git/go-git/v5 v5.15.0
 	github.com/koki-develop/go-fzf v0.15.0
-	github.com/pelletier/go-toml/v2 v2.2.3
+	github.com/pelletier/go-toml/v2 v2.2.4
 	github.com/urfave/cli/v2 v2.27.6
 )
 
