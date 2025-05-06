@@ -2,7 +2,7 @@ module github.com/Omochice/gh-manage-extension
 
 go 1.23.0
 
-toolchain go1.24.2
+toolchain go1.24.3
 
 require (
 	github.com/cli/go-gh v1.2.1
